@@ -1,13 +1,13 @@
-#Midgulp (and Bemo too!)
+#Sole24Ore's Bootstrap
 
-Thx to [Stefano Verna](https://github.com/stefanoverna)
+Thx to [Stefano Verna](https://github.com/stefanoverna) for the installer.
 
 ## One-liner setup
 
 Just type this into your terminal:
 
 ```
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/matteoscurati/midgulp/master/installer/install)"
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/matteoscurati/sole24ore/master/installer/install)"
 ```
 
 After that your project has been deployed, you have to run:
