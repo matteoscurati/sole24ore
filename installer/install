@@ -65,7 +65,7 @@ def name_project
 end
 
 def copy_project
-  copy_if_missing 'https://github.com/matteoscurati/midgulp/trunk', name_project
+  copy_if_missing 'https://github.com/matteoscurati/sole24ore/trunk', name_project
 end
 
 copy_project
