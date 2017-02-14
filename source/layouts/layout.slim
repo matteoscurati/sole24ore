@@ -1,0 +1,10 @@
+doctype html
+html
+  head = partial "partials/head"
+  body
+    = partial "partials/sole"
+    = yield
+    = javascript_include_tag :application
+    = partial "partials/track"
+    javascript:
+      _satellite.pageBottom();
